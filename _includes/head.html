@@ -1,0 +1,30 @@
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="cybersecurity,training,platform,saas,workshop" name="keywords">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <!-- Favicons -->
+  <link href="{{ "/img/favicon.ico" | prepend: site.baseurl }}" rel="icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,600,700,700i|Montserrat:300,400,500,600,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="{{ "/lib/bootstrap/css/bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" rel="stylesheet">
+  <link href="{{ "/lib/animate/animate.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{ "/lib/ionicons/css/ionicons.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{ "/lib/owlcarousel/assets/owl.carousel.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{ "/lib/lightbox/css/lightbox.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="{{ "/css/style.css" | prepend: site.baseurl }}" rel="stylesheet">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+</head>
