@@ -188,11 +188,11 @@ h6 {
 
 #header .logo h1 {
   font-size: 36px;
+  font-family: "Baloo", cursive;
   margin: 0;
   padding: 0;
   line-height: 1;
   font-weight: 400;
-  letter-spacing: 3px;
   text-transform: uppercase;
 }
 
@@ -1278,10 +1278,9 @@ h6 {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Baloo", cursive;
   color: #413e66;
   font-weight: 400;
-  letter-spacing: 3px;
   text-transform: uppercase;
 }
 
