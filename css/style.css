@@ -1488,6 +1488,12 @@ h6 {
   color: #0a98c0;
 }
 
+#footer img {
+  padding: 0;
+  max-height: 99px;
+}
+
+
 /* Courses Section
 --------------------------------*/
 
