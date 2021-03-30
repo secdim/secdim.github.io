@@ -8,4 +8,4 @@ gem "jekyll", "3.9.0"
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Vuln in order versions
-gem "kramdown", "2.3.0"
+gem "kramdown", "2.3.1"
