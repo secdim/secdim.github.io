@@ -7,13 +7,13 @@
         "discount": "25% OFF",
         "price": null
       },
-      "eventTypes": ["java", "cs"],
+      "eventTypes": ["java"],
       "date": "Multiple dates",
       "title": "Defensive Programming",
       "description": "Apply Defensive Programming principles and write defensive tests to eliminate modern security bugs. Hands-on and instructor led.",
       "duration": "2 days",
-      "urlAddress": "https://secdim.eventbrite.com",
-      "about": "You will learn a new approach to write a robust and hardened software from the ground-up. You will learn defensive design and implementation. You will identify threats at an early stage of feature introduction. You will learn how to write security tests for classes of security bugs. This is hands-on course filled with lots of practical labs in Java and C#",
+      "urlAddress": "https://www.defensive-programming.com/book",
+      "about": "You will learn a new approach to write a robust and hardened software from the ground-up. You will learn defensive design and implementation. You will identify threats at an early stage of feature introduction. You will learn how to write security tests for classes of security bugs. This is hands-on course filled with lots of practical labs.",
       "recipients": "Software engineers, Security Champions, DevOps, Secure Code Auditors",
       "eventDate": "Multiple dates",
       "instructor": "Online"
@@ -25,49 +25,49 @@
         "discount": "25% OFF",
         "price": null
       },
-      "eventTypes": ["js", "python"],
+      "eventTypes": ["js"],
       "date": "Multiple dates",
       "title": "Defensive Programming",
       "description": "Apply Defensive Programming principles and write defensive tests to eliminate modern security bugs. Hands-on and instructor led.",
       "duration": "2 days",
-      "urlAddress": "https://secdim.eventbrite.com",
-      "about": "You will learn a new approach to write robust and hardened software from the ground-up. You will learn defensive design and implementation. You will identify threats at an early stage of feature introduction. You will learn how to write security tests for classes of security bugs. This is hands-on course filled with lots of practical labs in JavaScript and Python",
+      "urlAddress": "https://www.defensive-programming.com/book",
+      "about": "You will learn a new approach to write robust and hardened software from the ground-up. You will learn defensive design and implementation. You will identify threats at an early stage of feature introduction. You will learn how to write security tests for classes of security bugs. This is hands-on course filled with lots of practical labs.",
       "recipients": "Software engineers, Security Champions, DevOps, Secure Code Auditors",
       "eventDate": "Multiple dates",
       "instructor": "Online"
     },
     {
       "payment": {
-        "showTag": false,
+        "showTag": true,
         "free": false,
-        "discount": "",
+        "discount": "25% OFF",
         "price": null
       },
-      "eventTypes": ["java", "cs"],
+      "eventTypes": ["cs"],
       "date": "Multiple dates",
       "title": "Defensive Testing",
       "description": "Find edge cases that result in security bugs and write security tests to discover them. Hands-on and instructor led.",
       "duration": "2 days",
-      "urlAddress": "https://secdim.eventbrite.com",
-      "about": "You will learn how a security professional tests for security bugs. You will build an adversary mindset to generate test cases. You will learn how to write security tests for classes of modern security bugs in Java and C#.",
+      "urlAddress": "https://www.defensive-testing.com/book",
+      "about": "You will learn how a security professional tests for security bugs. You will build an adversary mindset to generate test cases. You will learn how to write security tests for classes of modern security bugs.",
       "recipients": "Software engineers, Test engineers, Security testers",
       "eventDate": "Multiple dates",
       "instructor": "Online"
     },
     {
       "payment": {
-        "showTag": false,
+        "showTag": true,
         "free": false,
-        "discount": "",
+        "discount": "25% OFF",
         "price": null
       },
-      "eventTypes": ["js", "python"],
+      "eventTypes": ["python"],
       "date": "Multiple dates",
       "title": "Defensive Testing",
       "description": "Find edge cases that result in security bugs and write security tests to discover them. Hands-on and instructor led.",
       "duration": "2 days",
-      "urlAddress": "https://secdim.eventbrite.com",
-      "about": "You will learn how a security professional tests for security bugs. You will build an adversary mindset to generate test cases. You will learn how to write security tests for classes of modern security bugs in JavaScript and Python.",
+      "urlAddress": "https://www.defensive-testing.com/book",
+      "about": "You will learn how a security professional tests for security bugs. You will build an adversary mindset to generate test cases. You will learn how to write security tests for classes of modern security bugs.",
       "recipients": "Software engineers, Test engineers, Security testers",
       "eventDate": "Multiple dates",
       "instructor": "Online"
@@ -76,7 +76,7 @@
       "payment": {
         "showTag": true,
         "free": true,
-        "discount": null,
+        "discount": "",
         "price": null
       },
       "eventTypes": ["java", "cs", "js" ],
@@ -94,7 +94,7 @@
       "payment": {
         "showTag": false,
         "free": false,
-        "discount": null,
+        "discount": "25% OFF",
         "price": null
       },
       "eventTypes": ["private"],
@@ -111,18 +111,144 @@
     {
       "payment": {
         "showTag": true,
-        "free": true,
-        "discount": null,
+        "free": null,
+        "discount": "25% OFF",
         "price": null
       },
-      "eventTypes": ["docker"],
-      "date": "Every First Tuesday",
-      "title": "Docker hardening",
-      "description": "Find and eliminate most common mistakes in building Docker images that result in insecure containers.",
-      "duration": "2 hours",
-      "urlAddress": "https://secdim.eventbrite.com",
-      "about": "Find how to identify and eliminate the most common security mistakes in building Docker images. These mistake can be misused by an adversary to compromise container-based systems.",
-      "recipients": "Software engineers, DevOps, Security testers",
+      "eventTypes": ["cs"],
+      "date": "Multiple dates",
+      "title": "Defensive Programming",
+      "description": "Apply Defensive Programming principles and write defensive tests to eliminate modern security bugs. Hands-on and instructor led.",
+      "duration": "2 days",
+      "urlAddress": "https://www.defensive-programming.com/book",
+      "about": "You will learn a new approach to write a robust and hardened software from the ground-up. You will learn defensive design and implementation. You will identify threats at an early stage of feature introduction. You will learn how to write security tests for classes of security bugs. This is hands-on course filled with lots of practical labs.",
+      "recipients": "Software engineers, Security Champions, DevOps, Secure Code Auditors",
+      "eventDate": "Multiple dates",
+      "instructor": "Online"
+    },
+    {
+      "payment": {
+        "showTag": true,
+        "free": null,
+        "discount": "25% OFF",
+        "price": null
+      },
+      "eventTypes": ["python"],
+      "date": "Multiple dates",
+      "title": "Defensive Programming",
+      "description": "Apply Defensive Programming principles and write defensive tests to eliminate modern security bugs. Hands-on and instructor led.",
+      "duration": "2 days",
+      "urlAddress": "https://www.defensive-programming.com/book",
+      "about": "You will learn a new approach to write a robust and hardened software from the ground-up. You will learn defensive design and implementation. You will identify threats at an early stage of feature introduction. You will learn how to write security tests for classes of security bugs. This is hands-on course filled with lots of practical labs.",
+      "recipients": "Software engineers, Security Champions, DevOps, Secure Code Auditors",
+      "eventDate": "Multiple dates",
+      "instructor": "Online"
+    },
+    {
+      "payment": {
+        "showTag": true,
+        "free": null,
+        "discount": "25% OFF",
+        "price": null
+      },
+      "eventTypes": ["ts"],
+      "date": "Multiple dates",
+      "title": "Defensive Programming",
+      "description": "Apply Defensive Programming principles and write defensive tests to eliminate modern security bugs. Hands-on and instructor led.",
+      "duration": "2 days",
+      "urlAddress": "https://www.defensive-programming.com/book",
+      "about": "You will learn a new approach to write a robust and hardened software from the ground-up. You will learn defensive design and implementation. You will identify threats at an early stage of feature introduction. You will learn how to write security tests for classes of security bugs. This is hands-on course filled with lots of practical labs.",
+      "recipients": "Software engineers, Security Champions, DevOps, Secure Code Auditors",
+      "eventDate": "Multiple dates",
+      "instructor": "Online"
+    },
+    {
+      "payment": {
+        "showTag": true,
+        "free": null,
+        "discount": "25% OFF",
+        "price": null
+      },
+      "eventTypes": ["go"],
+      "date": "Multiple dates",
+      "title": "Defensive Programming",
+      "description": "Apply Defensive Programming principles and write defensive tests to eliminate modern security bugs. Hands-on and instructor led.",
+      "duration": "2 days",
+      "urlAddress": "https://www.defensive-programming.com/book",
+      "about": "You will learn a new approach to write a robust and hardened software from the ground-up. You will learn defensive design and implementation. You will identify threats at an early stage of feature introduction. You will learn how to write security tests for classes of security bugs. This is hands-on course filled with lots of practical labs.",
+      "recipients": "Software engineers, Security Champions, DevOps, Secure Code Auditors",
+      "eventDate": "Multiple dates",
+      "instructor": "Online"
+    },
+    {
+      "payment": {
+        "showTag": true,
+        "free": false,
+        "discount": "25% OFF",
+        "price": null
+      },
+      "eventTypes": ["java"],
+      "date": "Multiple dates",
+      "title": "Defensive Testing",
+      "description": "Find edge cases that result in security bugs and write security tests to discover them. Hands-on and instructor led.",
+      "duration": "2 days",
+      "urlAddress": "https://www.defensive-testing.com/book",
+      "about": "You will learn how a security professional tests for security bugs. You will build an adversary mindset to generate test cases. You will learn how to write security tests for classes of modern security bugs.",
+      "recipients": "Software engineers, Test engineers, Security testers",
+      "eventDate": "Multiple dates",
+      "instructor": "Online"
+    },
+    {
+      "payment": {
+        "showTag": true,
+        "free": false,
+        "discount": "25% OFF",
+        "price": null
+      },
+      "eventTypes": ["js"],
+      "date": "Multiple dates",
+      "title": "Defensive Testing",
+      "description": "Find edge cases that result in security bugs and write security tests to discover them. Hands-on and instructor led.",
+      "duration": "2 days",
+      "urlAddress": "https://www.defensive-testing.com/book",
+      "about": "You will learn how a security professional tests for security bugs. You will build an adversary mindset to generate test cases. You will learn how to write security tests for classes of modern security bugs.",
+      "recipients": "Software engineers, Test engineers, Security testers",
+      "eventDate": "Multiple dates",
+      "instructor": "Online"
+    },
+    {
+      "payment": {
+        "showTag": true,
+        "free": false,
+        "discount": "25% OFF",
+        "price": null
+      },
+      "eventTypes": ["ts"],
+      "date": "Multiple dates",
+      "title": "Defensive Testing",
+      "description": "Find edge cases that result in security bugs and write security tests to discover them. Hands-on and instructor led.",
+      "duration": "2 days",
+      "urlAddress": "https://www.defensive-testing.com/book",
+      "about": "You will learn how a security professional tests for security bugs. You will build an adversary mindset to generate test cases. You will learn how to write security tests for classes of modern security bugs.",
+      "recipients": "Software engineers, Test engineers, Security testers",
+      "eventDate": "Multiple dates",
+      "instructor": "Online"
+    },
+    {
+      "payment": {
+        "showTag": true,
+        "free": false,
+        "discount": "25% OFF",
+        "price": null
+      },
+      "eventTypes": ["go"],
+      "date": "Multiple dates",
+      "title": "Defensive Testing",
+      "description": "Find edge cases that result in security bugs and write security tests to discover them. Hands-on and instructor led.",
+      "duration": "2 days",
+      "urlAddress": "https://www.defensive-testing.com/book",
+      "about": "You will learn how a security professional tests for security bugs. You will build an adversary mindset to generate test cases. You will learn how to write security tests for classes of modern security bugs.",
+      "recipients": "Software engineers, Test engineers, Security testers",
       "eventDate": "Multiple dates",
       "instructor": "Online"
     }
